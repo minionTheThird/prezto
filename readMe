@@ -1,0 +1,5 @@
+Simple modification to agnostic theme for prezto.
+
+To install download the file and place in functions folder 
+  File to be placed @ ~/.zprezto/modules/prompt/function/
+After this theme name should be displayed on listing all themes : prompt -l
